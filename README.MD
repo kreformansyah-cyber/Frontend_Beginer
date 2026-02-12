@@ -100,7 +100,7 @@ Open the project locally by opening the `index.html` file in a browser.
 Project latihan membuat CV menggunakan HTML.
 
 ## 🚀 Live Project
-👉 https://kreformansyah-cyber.github.io/frontend-beginner/
+👉 https://kreformansyah-cyber.github.io/Frontend-Beginer/
 
 ## 📎 Author
 
